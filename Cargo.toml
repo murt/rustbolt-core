@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "rustbolt-protocol",
+    "rustbolt-common",
+    "rustbolt-auth",
+]
